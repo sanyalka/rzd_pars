@@ -6,3 +6,6 @@ function push(title, body){
         }
   );
 }
+function test(){
+        console.log('Test ok!');
+}
