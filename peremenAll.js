@@ -7,4 +7,4 @@ let cvCart = allCart[0] //СВ ВАГОН
 let kupeCart = allCart[1] //КУПЕ ВАГОН
 let placCart = allCart[2] //ПЛАЦКАРТНЫЙ ВАГОН
 
-let numberCart = document.querySelector('route-car-num')
+let numberCart = document.querySelector('.route-car-num')
